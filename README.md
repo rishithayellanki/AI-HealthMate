@@ -66,3 +66,5 @@ Add optional translation step: AI by Zapier – Translate text
 Add output step: Gmail / Twilio – Send Message
 
 Turn ON the Zap ⚡
+link for the google response sheet through user can access this model:
+https://forms.gle/qSgPTkxK4rWvxWxx9
