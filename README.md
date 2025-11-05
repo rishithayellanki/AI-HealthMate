@@ -1,11 +1,11 @@
-TITLE: AI-HealthMate
+**TITLE**: AI-HealthMate
 
-AIM :
+**AIM** :
 
 AI HealthMate is a no-code, AI-powered symptom checker designed to help users get instant, personalized health guidance.
 Built entirely using Google Forms, Google Sheets, and Zapier AI, this project provides home remedies, medication suggestions, and nearby clinic details — all in the user’s preferred language.
 
-STEPS FOLLOWED :
+**STEPS FOLLOWED** :
 
 It’s a real-world AI solution aimed at improving basic healthcare access, especially for people in rural or low-connectivity areas who may not have quick access to a doctor.
 
@@ -69,9 +69,13 @@ Turn ON the Zap ⚡
 
 *****link for the google response sheet through user can access this model:*****
 https://forms.gle/qSgPTkxK4rWvxWxx9
+
 **Note:** This Zap runs automatically when the above Google Form is submitted.
+check the uploaded files for the screenshots showcasing the performance of this model which includes each step done in google forms and zapier also includes screenshots of the output mail received by the user after accessing the google form.
+
+*****I would recommend to try accessing the model by filling the google sheet through the link provided above for better understanding of this model*****
 
 
 Team :
-project by Rishitha Yellanki and Pranaya Byreddy
+**project by Rishitha Yellanki and Pranaya Byreddy**
 
