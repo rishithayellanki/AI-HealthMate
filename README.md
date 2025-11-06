@@ -75,7 +75,7 @@ https://forms.gle/qSgPTkxK4rWvxWxx9
 **Note:** This Zap runs automatically when the above Google Form is submitted.
 check the uploaded files for the screenshots showcasing the performance of this model which includes each step done in google forms and zapier also includes screenshots of the output mail received by the user after accessing the google form.
 
-*****I would recommend to try accessing the model by filling the google sheet through the link provided above for better understanding of this model*****
+*****I would recommend to try accessing the model by filling the google sheet through the link provided above and view the screenshots document present in the pull request above for better understanding of this model*****
 
 
 Team :
