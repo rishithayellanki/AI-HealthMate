@@ -70,6 +70,8 @@ Turn ON the Zap ⚡
 *****link for the google response sheet through user can access this model:*****
 https://forms.gle/qSgPTkxK4rWvxWxx9
 
+***you will get an response email with the required output within 1-3 minutes after submitting the the Google sheet***
+
 **Note:** This Zap runs automatically when the above Google Form is submitted.
 check the uploaded files for the screenshots showcasing the performance of this model which includes each step done in google forms and zapier also includes screenshots of the output mail received by the user after accessing the google form.
 
